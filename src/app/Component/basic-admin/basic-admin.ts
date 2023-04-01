@@ -2,9 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-basic-admin',
-  templateUrl: './basic-admin.component.html',
-  styleUrls: ['./basic-admin.component.sass',
-              './basic-admin.component.css'
+  templateUrl: './basic-admin.html',
+  styleUrls: ['./basic-admin.sass',
+              './basic-admin.css'
             ]
 })
 export class BasicAdminComponent {
